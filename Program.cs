@@ -6,7 +6,9 @@ namespace AulaDia25
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Recursividade rec = new Recursividade();
+            rec.GerarSequenciaFibonacci(0, 1, 15);
+            Console.WriteLine("--- "+rec.GerarFatorial(5));
         }
     }
 }
