@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\AulaDia25\bin\Debug\netcoreapp3.1\AulaDia25.exe
+C:\Users\HOME\Documents\AulaDia25\bin\Debug\netcoreapp3.1\AulaDia25.deps.json
+C:\Users\HOME\Documents\AulaDia25\bin\Debug\netcoreapp3.1\AulaDia25.runtimeconfig.json
+C:\Users\HOME\Documents\AulaDia25\bin\Debug\netcoreapp3.1\AulaDia25.runtimeconfig.dev.json
+C:\Users\HOME\Documents\AulaDia25\bin\Debug\netcoreapp3.1\AulaDia25.dll
+C:\Users\HOME\Documents\AulaDia25\bin\Debug\netcoreapp3.1\AulaDia25.pdb
+C:\Users\HOME\Documents\AulaDia25\obj\Debug\netcoreapp3.1\AulaDia25.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\AulaDia25\obj\Debug\netcoreapp3.1\AulaDia25.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\AulaDia25\obj\Debug\netcoreapp3.1\AulaDia25.AssemblyInfo.cs
+C:\Users\HOME\Documents\AulaDia25\obj\Debug\netcoreapp3.1\AulaDia25.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\AulaDia25\obj\Debug\netcoreapp3.1\AulaDia25.dll
+C:\Users\HOME\Documents\AulaDia25\obj\Debug\netcoreapp3.1\AulaDia25.pdb
+C:\Users\HOME\Documents\AulaDia25\obj\Debug\netcoreapp3.1\AulaDia25.genruntimeconfig.cache
