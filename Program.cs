@@ -9,6 +9,7 @@ namespace AulaDia25
             Recursividade rec = new Recursividade();
             rec.GerarSequenciaFibonacci(0, 1, 15);
             Console.WriteLine("--- "+rec.GerarFatorial(5));
+            rec.GerarSequenciaTribonacci(1,1,2,5);
         }
     }
 }
